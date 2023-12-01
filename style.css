@@ -1,0 +1,117 @@
+body{
+    background-color: darkslategrey;
+}
+nav{
+    background-color: darkgrey;
+    background-size: 100%;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+li{
+    text-align: center;
+    display: inline;   
+}
+li a{
+    padding: 15px;
+    background-color: darkgray;
+    color: blanchedalmond;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: lightgrey;
+}
+.title{
+    color:blanchedalmond;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 100px;
+    border-color: blanchedalmond;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+.nickel{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.dogtitle{
+    display: block;
+    margin-top: -15%;
+}
+div h1{
+    color:blanchedalmond;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 100px;
+    border-color: blanchedalmond;
+    text-align: center;
+    position:relative;
+    top: 250px;
+}
+.sleepydog{
+    width: 100px;
+    display:inline;
+    margin-top: 22%;
+    margin-left: 0%;
+    margin-right: 0%
+}
+.chillinDog{
+    width: 133px;
+    display: inline;
+    margin-top: 22%;
+    margin-left: 0%;
+    margin-right: 0%
+}
+.leopuppy{
+    width: 133px;
+    display: inline;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 22%;
+    
+}
+.about{
+    color:blanchedalmond;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 100px;
+    border-color: blanchedalmond;
+    text-align: center;
+    display: block;
+    margin-top: -18%;
+}
+.aboutp{
+    display: block;
+    margin-top: 25%;
+    text-align: center;
+    color: blanchedalmond;
+}
+.portfolio{
+    color:blanchedalmond;
+    border-style: groove;
+    border-width: 1px;
+    border-radius: 100px;
+    border-color: blanchedalmond;
+    display: block;
+    margin-top: -18.75%;
+    margin-bottom: auto;
+    text-align: center;
+}
+.zoo{
+    display:inline-block;
+    margin-top: 33%;
+    margin-left: 30%;
+    color: blanchedalmond;
+}
+.zoopic{
+    height: 250px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top:-10%;
+    margin-left: 60%;
+}
+
