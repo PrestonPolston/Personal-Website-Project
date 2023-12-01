@@ -19,6 +19,7 @@ li a{
 }
 li a:hover{
     background-color: lightgrey;
+    border-radius: 20%;
 }
 .title{
     color:blanchedalmond;
