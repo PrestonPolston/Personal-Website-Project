@@ -1,76 +1,76 @@
-body{
-    background-color: darkslategrey;
+body {
+  background-color: darkslategrey;
 }
-nav{
-    background-color: darkgrey;
-    background-size: 100%;
-    padding: 5px;
-    margin-bottom: 5px;
+nav {
+  background-color: darkgrey;
+  background-size: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
 }
-li{
-    text-align: center;
-    display: inline;   
+li {
+  text-align: center;
+  display: inline;
 }
-li a{
-    padding: 15px;
-    background-color: darkgray;
-    color: blanchedalmond;
-    text-decoration: none;
+li a {
+  padding: 15px;
+  background-color: darkgray;
+  color: blanchedalmond;
+  text-decoration: none;
 }
-li a:hover{
-    background-color: lightgrey;
-    border-radius: 20%;
+li a:hover {
+  background-color: lightgrey;
+  border-radius: 20%;
 }
-.title{
-    color:blanchedalmond;
-    border-style: groove;
-    border-width: 1px;
-    border-radius: 100px;
-    border-color: blanchedalmond;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: auto;
+.title {
+  color: blanchedalmond;
+  border-style: groove;
+  border-width: 1px;
+  border-radius: 100px;
+  border-color: blanchedalmond;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
 }
-.nickel{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
+.nickel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
-.dogtitle{
-    color: blanchedalmond;
-    border: 2px solid blanchedalmond;
-    border-radius: 100px;
-    text-align: center;
-    display: block;
-    margin-top: 5%;
+.dogtitle {
+  color: blanchedalmond;
+  border: 2px solid blanchedalmond;
+  border-radius: 100px;
+  text-align: center;
+  display: block;
+  margin-top: 5%;
 }
-.sleepydog{
-    width: 190px;
-    padding-left: 100px;
-    /* display:inline;
+.sleepydog {
+  width: 190px;
+  padding-left: 100px;
+  /* display:inline;
     overflow: hidden;
     border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 22%; */
 }
-.chillinDog{
-    width: 250px;
-    padding-left: 100px;
-    /* display: inline;
+.chillinDog {
+  width: 250px;
+  padding-left: 100px;
+  /* display: inline;
     border-radius: 50%;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
     margin-top: 22%; */
 }
-.leopuppy{
-    width: 250px;
-    padding-left: 100px;
-    /* display: inline;
+.leopuppy {
+  width: 250px;
+  padding-left: 100px;
+  /* display: inline;
     overflow: hidden;
     border-radius: 50%;
     margin-left: auto;
@@ -78,9 +78,7 @@ li a:hover{
     margin-top: 10%;    */
 }
 .dogpic {
-    display: inline;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
 }
-

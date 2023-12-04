@@ -21,29 +21,17 @@ li a:hover {
   background-color: lightgrey;
   border-radius: 20%;
 }
-.portfolio {
+h3 {
   color: blanchedalmond;
-  border: 2px solid blanchedalmond;
-  text-align: center;
-  border-radius: 100px;
+  text-decoration: underline;
 }
-.zoo1 {
+label {
   color: blanchedalmond;
-  font-size: x-large;
-  text-align: center;
-}
-.description {
-  color: blanchedalmond;
-  text-align: center;
-  padding-bottom: 10px;
-}
-.zoopic {
-  width: 300px;
-  border: 2px solid black;
   display: block;
-  margin-right: auto;
-  margin-left: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
-img:hover {
-  opacity: 0.1;
+.thx {
+  color: blanchedalmond !important;
+  text-align: center;
 }
