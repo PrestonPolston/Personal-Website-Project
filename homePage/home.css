@@ -1,5 +1,7 @@
 body {
   background-color: darkslategrey;
+  height: 100vh;
+  box-sizing: border-box;
 }
 nav {
   background-color: darkgrey;
@@ -47,8 +49,8 @@ li a:hover {
   display: block;
   margin-top: 5%;
 }
-.sleepydog {
-  width: 190px;
+.leo {
+  width: 200px;
   padding-left: 100px;
   /* display:inline;
     overflow: hidden;
@@ -57,8 +59,8 @@ li a:hover {
     margin-right: auto;
     margin-top: 22%; */
 }
-.chillinDog {
-  width: 250px;
+.leopuppy {
+  width: 200px;
   padding-left: 100px;
   /* display: inline;
     border-radius: 50%;
@@ -67,8 +69,9 @@ li a:hover {
     margin-right: auto;
     margin-top: 22%; */
 }
-.leopuppy {
-  width: 250px;
+.leosleeping {
+  height: 200px;
+
   padding-left: 100px;
   /* display: inline;
     overflow: hidden;
@@ -77,8 +80,20 @@ li a:hover {
     margin-right: auto;
     margin-top: 10%;    */
 }
-.dogpic {
+section {
+  width: 100%;
   display: inline-flex;
-  margin-left: auto;
-  margin-right: auto;
+  justify-content: center;
+  margin: auto;
+}
+.dog {
+  padding: 20px;
+}
+@media screen and (max-width: 500px) {
+  body {
+    background-color: cadetblue;
+  }
+  section {
+    display: block;
+  }
 }
